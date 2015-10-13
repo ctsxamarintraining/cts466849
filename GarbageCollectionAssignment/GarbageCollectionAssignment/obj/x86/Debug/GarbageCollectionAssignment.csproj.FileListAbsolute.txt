@@ -1,0 +1,4 @@
+C:\Users\466849\AppData\Local\Temporary Projects\GarbageCollectionAssignment\bin\Debug\GarbageCollectionAssignment.exe
+C:\Users\466849\AppData\Local\Temporary Projects\GarbageCollectionAssignment\bin\Debug\GarbageCollectionAssignment.pdb
+C:\Users\466849\AppData\Local\Temporary Projects\GarbageCollectionAssignment\obj\x86\Debug\GarbageCollectionAssignment.exe
+C:\Users\466849\AppData\Local\Temporary Projects\GarbageCollectionAssignment\obj\x86\Debug\GarbageCollectionAssignment.pdb

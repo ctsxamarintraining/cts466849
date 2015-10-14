@@ -1,0 +1,6 @@
+C:\Users\466849\AppData\Local\Temporary Projects\GeneralComparer\bin\Debug\GeneralComparer.exe
+C:\Users\466849\AppData\Local\Temporary Projects\GeneralComparer\bin\Debug\GeneralComparer.pdb
+C:\Users\466849\AppData\Local\Temporary Projects\GeneralComparer\obj\x86\Debug\GeneralComparer.exe
+C:\Users\466849\AppData\Local\Temporary Projects\GeneralComparer\obj\x86\Debug\GeneralComparer.pdb
+D:\Visual Studio C# Projects\GeneralComparer\GeneralComparer\obj\x86\Debug\GeneralComparer.exe
+D:\Visual Studio C# Projects\GeneralComparer\GeneralComparer\obj\x86\Debug\GeneralComparer.pdb

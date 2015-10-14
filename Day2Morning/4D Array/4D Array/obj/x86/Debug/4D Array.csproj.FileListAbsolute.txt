@@ -1,0 +1,6 @@
+C:\Users\466849\AppData\Local\Temporary Projects\4D Array\bin\Debug\4D Array.exe
+C:\Users\466849\AppData\Local\Temporary Projects\4D Array\bin\Debug\4D Array.pdb
+C:\Users\466849\AppData\Local\Temporary Projects\4D Array\obj\x86\Debug\4D Array.exe
+C:\Users\466849\AppData\Local\Temporary Projects\4D Array\obj\x86\Debug\4D Array.pdb
+D:\Visual Studio C# Projects\4D Array\4D Array\obj\x86\Debug\4D Array.exe
+D:\Visual Studio C# Projects\4D Array\4D Array\obj\x86\Debug\4D Array.pdb

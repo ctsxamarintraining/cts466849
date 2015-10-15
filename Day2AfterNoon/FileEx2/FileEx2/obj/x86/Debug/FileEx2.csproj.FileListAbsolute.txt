@@ -1,0 +1,6 @@
+C:\Users\466849\AppData\Local\Temporary Projects\FileEx2\bin\Debug\FileEx2.exe
+C:\Users\466849\AppData\Local\Temporary Projects\FileEx2\bin\Debug\FileEx2.pdb
+C:\Users\466849\AppData\Local\Temporary Projects\FileEx2\obj\x86\Debug\FileEx2.exe
+C:\Users\466849\AppData\Local\Temporary Projects\FileEx2\obj\x86\Debug\FileEx2.pdb
+D:\Visual Studio C# Projects\FileEx2\FileEx2\obj\x86\Debug\FileEx2.exe
+D:\Visual Studio C# Projects\FileEx2\FileEx2\obj\x86\Debug\FileEx2.pdb
